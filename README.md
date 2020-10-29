@@ -1,3 +1,3 @@
 # test
 
-Experimenting with how merging, rebasing, etc. works in git
+Experimenting with how merging, rebasing, etc. work in git
