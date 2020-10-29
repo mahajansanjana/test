@@ -1,3 +1,3 @@
-# test
+# dummy-repo
 
-Experimenting with how merging, rebasing, etc. work in git
+Dummy repo to figure out how to use git (merging, rebasing, etc.)
